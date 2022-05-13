@@ -1,7 +1,7 @@
 ### Olá eu sou Iuris Sousa 👋
 
 - 🔭 Altualmente não trabalho na area tech
-- 🌱 Estudando Desenvolvimente Web , Front-end
+- 🌱 Estudando Desenvolvimento Web , Front-end
 - 😄 Pronouns: ele/dele
 
 <div align="center">
